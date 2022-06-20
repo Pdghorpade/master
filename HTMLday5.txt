@@ -82,6 +82,8 @@ git pull origin master - it will copy all the code from your remote repository t
 git clone "git url" - it will copy the entire repository to the specific folder on your device
 
 
+Hii this is pranit!!!
+
 
 
 
